@@ -1,0 +1,14 @@
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\bin\Debug\net6.0\CollectionsLesson.exe
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\bin\Debug\net6.0\CollectionsLesson.deps.json
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\bin\Debug\net6.0\CollectionsLesson.runtimeconfig.json
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\bin\Debug\net6.0\CollectionsLesson.dll
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\bin\Debug\net6.0\CollectionsLesson.pdb
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.AssemblyInfoInputs.cache
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.AssemblyInfo.cs
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.csproj.CoreCompileInputs.cache
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.dll
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\refint\CollectionsLesson.dll
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.pdb
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.genruntimeconfig.cache
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\ref\CollectionsLesson.dll
