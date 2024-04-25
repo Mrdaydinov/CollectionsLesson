@@ -12,3 +12,4 @@ C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\n
 C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.pdb
 C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.genruntimeconfig.cache
 C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\ref\CollectionsLesson.dll
+C:\Users\muvi_\Desktop\GarageGit\CollectionsLesson\CollectionsLesson\obj\Debug\net6.0\CollectionsLesson.sourcelink.json

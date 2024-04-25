@@ -10,7 +10,7 @@ namespace CollectionsLesson
     internal class CustomArrayList
     {
         object[] array;
-        public int Capacity { get;private set; } = 4;
+        public int Capacity { get; private set; } = 4;
         public int Count { get; private set; } = 0;
 
         public CustomArrayList(int capacity)
@@ -96,18 +96,28 @@ namespace CollectionsLesson
             Capacity = Count;
         }
 
-        public void AddRange(IList collection) // there is no indexer in ICollection interface
+        public void AddRange(ICollection collection)
         {
-            for (int i = 0; i < collection.Count; i++)
+            foreach (object item in collection)
             {
-                this.Add(collection[i]);
+                this.Add(item);
             }
         }
 
         public object this[int index]
         {
-            get { return array[index]; }
-            set { array[index] = value; }
+            get
+            {
+                if (index >= 0 && index < array.Length)
+                    return array[index];
+                else
+                    throw new ArgumentOutOfRangeException();
+            }
+            set
+            {
+                if (index >= 0 && index < array.Length)
+                    array[index] = value;
+            }
         }
 
         public IEnumerator GetEnumerator()

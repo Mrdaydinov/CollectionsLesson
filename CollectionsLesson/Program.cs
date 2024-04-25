@@ -5,7 +5,7 @@ namespace CollectionsLesson
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
             CustomArrayList customArrayList = new CustomArrayList(4);
 
             customArrayList.Add(1);
@@ -19,10 +19,11 @@ namespace CollectionsLesson
 
             customArrayList.AddRange(objects);
 
-            Console.WriteLine( customArrayList[3]);
+            Console.WriteLine(customArrayList[3]);
+
             foreach (object obj in customArrayList)
             {
-                Console.WriteLine( obj );
+                Console.WriteLine(obj);
             }
         }
     }
